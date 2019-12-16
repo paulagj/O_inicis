@@ -2,6 +2,7 @@
 Crea un repositori
 
 ## Ejercicis
+* [1 Llocweb](
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
