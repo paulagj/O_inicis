@@ -2,7 +2,12 @@
 Crea un repositori
 
 ## Ejercicis
-* [1 Llocweb](
+* [1 Llocweb](https://paulagj.github.io/1_Llocweb/)
+* [2 CMYK](https://paulagj.github.io/2_cmyk/)
+* [3 Broom](https://paulagj.github.io/3_Broom/)
+* [4 Maquetació]
+* [5 Tarjetes](https://paulagj.github.io/5_Tarjetes/)
+* [6 Ladingpage](https://paulagj.github.io/6_landingpage/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
