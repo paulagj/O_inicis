@@ -10,7 +10,7 @@ Crea un repositori
 * [7 Grid Moma](https://paulagj.github.io/7_grid/)
 * [9 Transform](https://paulagj.github.io/9_Transform/)
 * [10 Fieldwork](https://paulagj.github.io/10_Fieldwork/)
-* [12_Document_js](https://paulagj.github.io/14_document_js/)
+* [12 Document_js](https://paulagj.github.io/14_document_js/)
 * [Examen](https://paulagj.github.io/Examen/)
 
 ## Pàgines classe
