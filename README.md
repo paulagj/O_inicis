@@ -8,9 +8,10 @@ Crea un repositori
 * [5 Tarjetes](https://paulagj.github.io/5_Tarjetes/)
 * [6 Ladingpage](https://paulagj.github.io/6_landingpage/)
 * [7 Grid Moma](https://paulagj.github.io/7_grid/)
+* [8 Minimalissimo](https://paulagj.github.io/8_minimalissimo/)
 * [9 Transform](https://paulagj.github.io/9_Transform/)
 * [10 Fieldwork](https://paulagj.github.io/10_Fieldwork/)
-* [12 Document_js](https://paulagj.github.io/8_minimalissimo/)
+* [12 Document_js]
 * [Examen](https://paulagj.github.io/Examen/)
 
 ## Pàgines classe
