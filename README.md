@@ -11,7 +11,7 @@ Crea un repositori
 * [8 Minimalissimo](https://paulagj.github.io/8_minimalissimo/)
 * [9 Transform](https://paulagj.github.io/9_Transform/)
 * [10 Fieldwork](https://paulagj.github.io/10_Fieldwork/)
-* [12 Document_js]
+* [12 Document_js](https://paulagj.github.io/12_document_js/)
 * [Examen](https://paulagj.github.io/Examen/)
 
 ## Pàgines classe
