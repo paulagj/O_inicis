@@ -13,6 +13,7 @@ Crea un repositori
 * [10 Fieldwork](https://paulagj.github.io/10_Fieldwork/)
 * [12 Document_js](https://paulagj.github.io/12_document_js/)
 * [Examen](https://paulagj.github.io/Examen/)
+* [Correcció examen](https://paulagj.github.io/Examen-Dothing/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
