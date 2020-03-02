@@ -14,7 +14,7 @@ Crea un repositori
 * [11 Examen](https://paulagj.github.io/11_Examen/)
 * [12 Correcció examen](https://paulagj.github.io/12_Examen_Dothing/)
 * [13 Aesop](https://paulagj.github.io/13_Aesop/)
-* [14 Document_js](https://paulagj.github.io/14_document_js/)
+* [14 Document js](https://paulagj.github.io/14_document_js/)
 * [15 Document js 2](https://paulagj.github.io/15_Document_js_2/)
 * [16 Menus](https://paulagj.github.io/16_menu/)
 * [17 Svg](https://paulagj.github.io/17_svg/)
