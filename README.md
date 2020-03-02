@@ -5,6 +5,7 @@ Crea un repositori
 * [1 Llocweb](https://paulagj.github.io/1_Llocweb/)
 * [2 CMYK](https://paulagj.github.io/2_cmyk/)
 * [3 Broom](https://paulagj.github.io/3_Broom/)
+* [4 Maquetació](https://paulagj.github.io/4_Maquetacio/)
 * [5 Tarjetes](https://paulagj.github.io/5-Tarjetes/)
 * [6 Ladingpage](https://paulagj.github.io/6-landingpage/)
 * [7 Grid Moma](https://paulagj.github.io/7-grid/)
@@ -18,7 +19,7 @@ Crea un repositori
 * [15 Document js 2](https://paulagj.github.io/15_Document_js_2/)
 * [16 Menus](https://paulagj.github.io/16_menu/)
 * [17 Svg](https://paulagj.github.io/17_svg/)
-* [18 Portfolio](https://paulagj.github.io/18-Portfoli/)
+* [18 Portfolio](https://paulagj.github.io/18_Portfoli/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
