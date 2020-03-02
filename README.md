@@ -18,6 +18,7 @@ Crea un repositori
 * [15 Document js 2](https://paulagj.github.io/15_Document_js_2/)
 * [16 Menus](https://paulagj.github.io/16_menu/)
 * [17 Svg](https://paulagj.github.io/17_svg/)
+* [18 Portfolio](https://paulagj.github.io/18_Portfoli/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
