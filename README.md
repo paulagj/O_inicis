@@ -5,7 +5,7 @@ Crea un repositori
 * [1 Llocweb](https://paulagj.github.io/1_Llocweb/)
 * [2 CMYK](https://paulagj.github.io/2_cmyk/)
 * [3 Broom](https://paulagj.github.io/3_Broom/)
-* [4 Maquetació](https://paulagj.github.io/4_Maquetacio/)
+* [4 Maquetació]()
 * [5 Tarjetes](https://paulagj.github.io/5-Tarjetes/)
 * [6 Ladingpage](https://paulagj.github.io/6-landingpage/)
 * [7 Grid Moma](https://paulagj.github.io/7-grid/)
