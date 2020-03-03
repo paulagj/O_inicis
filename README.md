@@ -20,6 +20,7 @@ Crea un repositori
 * [16 Menus](https://paulagj.github.io/16_menu/)
 * [17 Svg](https://paulagj.github.io/17_svg/)
 * [18 Portfolio](https://paulagj.github.io/18_Portfoli/)
+* [19 Examen 2](https://paulagj.github.io/19_Examen_2/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
